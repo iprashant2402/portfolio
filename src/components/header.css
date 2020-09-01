@@ -1,0 +1,44 @@
+.header{
+    background: #343232 !important;
+    z-index: 1 !important;
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+}
+
+.header a{
+    color: #fff !important;
+    font-weight: bold !important;
+}
+
+.nav-anchor{
+    box-shadow: none;
+}
+
+.header-btn {
+    color: #fff !important;
+    border: 2px solid #fff !important;
+    padding: 5px;
+    background: transparent;
+}
+
+.header-toggler-icon{
+    height: 3px;
+    display: block;
+    background: #fff;
+    width: 20px;
+    margin: 4px;
+}
+
+.collapse.show{
+    display: block;
+    background: rgb(29,27,27,100%);
+    padding: 25px;
+}
+
+@media screen and (min-width: 989px) {
+    .header-btn{
+        display: none;
+    }
+}

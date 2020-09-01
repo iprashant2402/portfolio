@@ -1,0 +1,122 @@
+[
+    {
+        "github_url" : ["https://github.com/iprashant2402/doorzy"],
+        "title" : "Doorzy",
+        "description" : "Doorzy is an on-demand hyperlocal delivery app. Users can place an order of items they want to purchase and doorzy makes sure the items reaches to their doorstep. The ios and android app are built with react native and expo. Firebase is used for backend as a service. Firestore NoSQL is used for database needs. Notification Microservice, deployed on **Heroku** and built on top of Node.js and Express JS, handles sending customized promotional push notifications and trasactional notifications to customers using Expo Notification Service API.",
+        "tags" : ["React JS", "React Native", "Firebase", "Firestore", "Expo", "Node", "Express", "Heroku"],
+        "images" : [],
+        "project_page_url" : "",
+        "demo_link" : "https://play.google.com/store/apps/details?id=com.doorzy.doorzyapp&hl=en_IN",
+        "sno": 2
+    },
+    {
+        "github_url" : ["https://github.com/iprashant2402/doorzyHeroes"],
+        "title" : "Doorzy Heroes App",
+        "description": "React native mobile app for Doorzy delivery executives, where the delivery executives can see all new orders, accepted orders, update order status, view order details, generate order bill etc. Firebase is used for backend as a service. Firestore NoSQL is used for database needs. Makes use of the same notification microservice which is used by doorzy.",
+        "images": [],
+        "tags" : ["React JS", "React Native", "Firebase", "Firestore", "Expo"],
+        "project_page_url" : "", 
+        "demo_link" : "",
+        "sno": 3
+    },
+    {
+        "github_url" : ["https://github.com/iprashant2402/doorzyDashboard"],
+        "title" : "Doorzy Dashboard",
+        "description": "Frontend built on React JS using Bootstrap, for sending customized push notifications to selected or all users. Features admin panel for managing Doorzy food outlet menu items and food outlets. Admin can switch outlet active state using a switch and same can be done for a food item also.",
+        "tags": ["React JS", "Bootstrap", "Firebase", "Firestore NoSQL", "Javascript", "HTML", "CSS"],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "https://iprashant2402.github.io/doorzyDashboard",
+        "sno": 4
+    },
+    {
+        "github_url" : ["https://github.com/iprashant2402/codesquoo-news-fe" , "https://github.com/iprashant2402/newsquoo-backend-python"],
+        "title" : "Newsquoo",
+        "description": "AI based news aggregator, recommender and summarizer app which recommends users news articles based on the articles the user interacts with most and presents the user with summarization of the article, in case the user does not want to read the whole article. Also, exposes a public API to scrape the news sources and provides full article content in JSON format. Built on top of Google News API, with Django server and react native app.",
+        "tags": ["Flask", "React Native", "Text Mining", "Natural Language Processing" ,"Python" ,"Javascript", "Web Scraper"],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "",
+        "sno": 1
+    },
+    {
+        "github_url" : ["https://github.com/iprashant2402/cashsheetServer", "https://github.com/iprashant2402/cashsheetapp"],
+        "title" : "Cash Sheet Management System",
+        "description": "Cashsheet management system is a MEAN stack web app which facilitates in management of an organization's daily cash sheets. Users can be of two types i.e. admin and basic. Each day's cash sheet is maintained and summarized automatically w.r.t. opening balance, closing balance, transaction summation, note count and difference.",
+        "tags": ["Node JS", "Angular 8", "Bootstrap", "Javascript", "Express JS", "Mongo DB", "Mongoose", "JWT Authentication"],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "https://virestore-landpage.web.app/",
+        "sno": 5
+    },
+    {
+        "github_url" : [],
+        "title" : "",
+        "description": "",
+        "tags": [],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "",
+        "sno": 6
+    },
+    {
+        "github_url" : [],
+        "title" : "",
+        "description": "",
+        "tags": [],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "",
+        "sno": 7
+    },
+    {
+        "github_url" : [],
+        "title" : "",
+        "description": "",
+        "tags": [],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "",
+        "sno": 8
+    },
+    {
+        "github_url" : ["https://github.com/iprashant2402/Viredotdo"],
+        "title" : "Vire.Do",
+        "description": "Vire.Do is a simple to-do list that increases your productivity and helps to manage your tasks more efficiently. Whether its school, work or home, Vire.Do helps you to list out all your tasks and manage them with ease no matter who you are or what you do.",
+        "tags": ["React Native", "Firebase", "MobX", "Javascript"],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "https://play.google.com/store/apps/details?id=com.virestore.viredotdo&hl=en_GB",
+        "sno": 9
+    },
+    {
+        "github_url" : ["https://github.com/iprashant2402/knockBit"],
+        "title" : "Knockbit",
+        "description": "knockBit let's you to connect with people and then participate in discussions with them. You can create a topic on which you would like to conduct a debate or discussion and ask your followers to join or you can also join topics created by other users and give your opinions and views on the topic. Discussions happen in real-time",
+        "tags": ["Angular JS", "Ionic", "Firebase", "Firebase Realtime Database", "Javascript"],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "https://play.google.com/store/apps/details?id=com.knockBit.app&hl=en_IN",
+        "sno": 10
+    },
+    {
+        "github_url" : ["https://github.com/iprashant2402/landingPageOne"],
+        "title" : "Landing & Registration Page for Strucutra Event",
+        "description": "HTML, CSS landing page built on top of Bootstrap for Structura Event organised by American Society of Civil Engineers (VIT Chapter).",
+        "tags": ["HTML", "CSS", "Bootstrap", "Google Scripts"],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "https://ascestructura.in/",
+        "sno": 11
+    },
+    {
+        "github_url" : [],
+        "title" : "",
+        "description": "",
+        "tags": [],
+        "images": [],
+        "project_page_url" : "", 
+        "demo_link" : "",
+        "sno": 12
+    }
+]
